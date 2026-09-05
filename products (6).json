@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "عقيق كبدي",
+    "عقيق اسود"
+  ],
+  "products": [
+    {
+      "cat": "عقيق كبدي",
+      "name": "عقيق كبدي 29g عيار الفضة 950 صياغة يمنية",
+      "price": "35000",
+      "images": [
+        "https://khatem-ali-media.azxcrwlf.workers.dev/media/products/1/image-1.jpg",
+        "https://khatem-ali-media.azxcrwlf.workers.dev/media/products/1/image-2.jpg",
+        "https://khatem-ali-media.azxcrwlf.workers.dev/media/products/1/image-3.jpg"
+      ],
+      "inStock": true,
+      "sizes": [
+        {
+          "name": "65",
+          "stock": true
+        },
+        {
+          "name": "66",
+          "stock": true
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-30T15:24:59.454Z"
+}
